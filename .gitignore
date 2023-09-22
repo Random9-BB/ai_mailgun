@@ -1,4 +1,4 @@
-/aimailgun
+aimailgun/
 #venv for this project
 
 secret.py
