@@ -1,0 +1,6 @@
+/aimailgun
+#venv for this project
+
+secret.py
+#this is where you store your api keys 
+#use this .gitignore is strongly suggested
